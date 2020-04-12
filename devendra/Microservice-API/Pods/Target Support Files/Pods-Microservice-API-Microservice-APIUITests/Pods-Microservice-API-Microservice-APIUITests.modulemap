@@ -1,0 +1,6 @@
+framework module Pods_Microservice_API_Microservice_APIUITests {
+  umbrella header "Pods-Microservice-API-Microservice-APIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
