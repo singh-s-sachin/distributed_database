@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<requests>
+	<request uri = "/user">
+		<classname>com.example.appointment.appointment.UserRegistration</classname>
+	</request>
+	<request uri = "/business">
+		<classname>com.example.appointment.executable.BusinessRegistration</classname>
+	</request>
+</requests>
